@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica Neus;
+    font-size: 15px;
+    background-color: whitesmoke;
+    background-image: url(Img/JUMPZ.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.p_info {
+    background-color: #ededed;
+}
+
+.p_info header {
+    background-color: #004fce;
+}
+
+.p_info header div {
+    padding: 1px;
+    padding-left: 1px;
+    letter-spacing: 1px;
+}
+
+.info {
+    padding: 1px;
+    padding-top: 5px;
+}
+.p_work {
+    background-color: #ededed;
+}
+.p_work header {
+    background-color: #004fce;
+}
+.p_work header div {
+    padding: 1px;
+    padding-left: 1px;
+    letter-spacing: 1px;
+}
+
+.p_work div{
+    padding: 1px;
+    padding-top: 5px;
+}
+.p_work div li a{
+    margin: 5px;
+}
